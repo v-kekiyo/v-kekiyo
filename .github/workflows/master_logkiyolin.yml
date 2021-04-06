@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'logkiyolin'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_857f64fee3404d35a2598f4870dc8c74 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d6f3f91fde4748769fd40a6b6fd8ac46 }}
         package: .
